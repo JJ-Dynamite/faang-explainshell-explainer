@@ -1,4 +1,4 @@
-# Contributing to explainshell-explainer
+# Contributing to faang-explainshell-explainer
 
 Thank you for your interest in contributing!
 
