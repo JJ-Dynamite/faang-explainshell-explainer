@@ -1,6 +1,6 @@
 # Understand any terminal command
 
-[![CI](https://github.com/JJ-Dynamite/faang-explainshell-explainer/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-explainshell-explainer/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/explainshellexplainer/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/explainshellexplainer/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Understand any terminal command - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/faang-explainshell-explainer.git
+git clone https://github.com/JJ-Dynamite/explainshellexplainer.git
 cd explainshell-explainer
 
 # Install backend dependencies

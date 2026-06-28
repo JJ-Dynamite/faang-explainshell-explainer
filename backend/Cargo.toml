@@ -1,11 +1,11 @@
 [package]
-name = "faang-explainshell-explainer-backend"
+name = "explainshellexplainer-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Understand any terminal command - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-explainshell-explainer"
+repository = "https://github.com/JJ-Dynamite/explainshellexplainer"
 
 [dependencies]
 axum = "0.7"
